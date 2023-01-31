@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabViewComponentPartialView", "LabViewComponentPartialView\LabViewComponentPartialView.csproj", "{E8C31B64-50F5-4A94-9AD2-68431F62907B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8C31B64-50F5-4A94-9AD2-68431F62907B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C31B64-50F5-4A94-9AD2-68431F62907B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C31B64-50F5-4A94-9AD2-68431F62907B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C31B64-50F5-4A94-9AD2-68431F62907B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1AA2AAD-C0ED-4992-8243-9DB8D14B5E52}
+	EndGlobalSection
+EndGlobal
